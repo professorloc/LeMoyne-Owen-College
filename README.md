@@ -1,3 +1,6 @@
 # LeMoyne-Owen-College
-my institution
-Team #2 at DSU Summer 2019 Cybersecurity Training
+Assistant Professor 
+Computer Science & Cybersecurity Dept
+DSU NSF Summer 2019 CyberTraining  
+INFA792 Offensive Security
+Lab 03 - Passive Discovery
